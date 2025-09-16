@@ -1,10 +1,9 @@
-﻿{
-  "name": "n8n-railway",
-  "private": true,
+{
   "scripts": {
-    "start": "n8n start"
+    "start": "n8n start",
+    "build": "n8n build"
   },
   "dependencies": {
-    "n8n": "^1.72.0"
+    "n8n": "^1.0.0"
   }
 }
